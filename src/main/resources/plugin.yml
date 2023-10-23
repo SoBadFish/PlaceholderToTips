@@ -1,0 +1,7 @@
+name: PlaceholderToTips
+version: 1.0.2
+main: org.sobadfish.placeholdertips.PAPIToTips
+author: sobadfish
+load: STARTUP
+api: ["1.0.8"]
+depend: ["Tips","PlaceholderAPI"]
