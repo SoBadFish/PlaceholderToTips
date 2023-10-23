@@ -1,0 +1,2 @@
+# PlaceholderToTips
+PlaceholderAPI变量转换为Tips变量
